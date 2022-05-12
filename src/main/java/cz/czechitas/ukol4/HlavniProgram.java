@@ -15,6 +15,7 @@ public class HlavniProgram {
     Sportka prvniTah = new Sportka();
     Sportka druhyTah = new Sportka();
 
+
     System.out.println("Probíhá losování prvního tahu Sportky…");
     prvniTah.zamichat();
     overeniVysledku(prvniTah);
